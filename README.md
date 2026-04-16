@@ -1,12 +1,6 @@
 <html>
 	<head>
 	<title>Archive</title>
-	<style>
-		body {
-			body-text = "Lato";
-			margin: 50px 100px 100px 100px;
-			}
-	</style>
 	</head>
 <section>
 	<font size = 10> 
