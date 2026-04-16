@@ -1,3 +1,8 @@
+<html>
+body {
+			body-text = "Lato";
+			margin: 50px 100px 100px 100px;
+			}
 <details style="font-size:25;">
 <summary>a city doomed</summary>
 <p style=”text-align:center;”>a city doomed</p>
@@ -23,3 +28,5 @@ the inferno dies, darkness falls; it lingers, for all eternity
 kovalan is wrongfully executed for theft, seeks justice by revealing the truth, and burns down the
 city of madurai for its injustice. in this poem, the city doomed is madurai from this epic.</p></i>
 </details>
+</body>
+</html>
