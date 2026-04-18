@@ -18,7 +18,7 @@
 			<li><a href="Because.html">I could not stop for Death - Kate Chopin</a></li>
 			<li><a href = "learningtofly.html">learning to fly</a></li>
 			<li><a href = "perhapsinanotherlife.html">perhaps in another life</a></li>
-			<li><a href = "slippingthroughherfinger.html">slipping through her fingers</a></li>
+			<li><a href = "slippingthroughherfingers.html">slipping through her fingers</a></li>
 		</ol>
 </font>
 </body>
