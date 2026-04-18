@@ -1,6 +1,6 @@
 <html>
 	<head>
-	<title><a href="README.md">Archive</a></title>
+	<title><a href="hompage.html">Archive</a></title>
 	</head>
 <section>
 	<font size = 10> 
@@ -12,14 +12,7 @@
 	</section>
 <body>
 	<font size = 5>
-		<h2 style="text-align:center;">Table of Contents</h2>
-		<ol start=1>
-			<li><a href="acitydoomed.html">a city doomed</a></li>
-			<li><a href="Because.html">I could not stop for Death - Kate Chopin</a></li>
-			<li><a href = "learningtofly.html">learning to fly</a></li>
-			<li><a href = "perhapsinanotherlife.html">perhaps in another life</a></li>
-			<li><a href = "slippingthroughherfingers.html">slipping through her fingers</a></li>
-		</ol>
+		<h2 style="text-align:center;"><a href="homepage.html">Click Here to Proceed</a></h2>
 </font>
 </body>
 </html>
