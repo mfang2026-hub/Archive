@@ -1,6 +1,6 @@
 <html>
 	<head>
-	<title><a href="hompage.html">Archive</a></title>
+	<title>Archive</title>
 	</head>
 <section>
 	<font size = 10> 
